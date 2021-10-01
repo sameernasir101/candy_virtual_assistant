@@ -9,69 +9,69 @@ This program is best compatible with Windows as of now. Other platforms complete
 -----------------------------------------------------------------------------------------------------------------
 A complete list of **Commands/Functionalities**:
 
-0. Check Internet Connectivity
-1. Text To Speech
-2. Greet
-3. Send email to myself
-4. Add an Alarm
-5. Open Notepad
-6. Close Notepad
-7. Open CMD
-8. Close CMD
-9. Open Google Chrome
-10. Close Google Chrome
-11. Open Visual Studio Code
-12. Close Visual Studio Code
-13. Open SHAREit
-14. Close SHAREit
-15. Open WinRAR
-16. Close WinRAR
-17. Fetch info from Wikipedia
-18. Open YouTube
-19. Close YouTube
-20. Open Facebook
-21. Close Facebook
-22. Open Instagram
-23. Close Instagram
-24. Open Twitter
-25. Close Twitter
-26. Open Stack Overflow
-27. Close Stack Overflow
-28. Open Whatsapp
-29. Close Whatsapp
-30. Google Search for Something
-31. Play Some Music
-32. Stop Music
-33. Tell Time
-34. Send Whatsapp Message to someone
-35. Play a YouTube Video
-36. Respond to "I Love You"
-37. Respond to "What is your Name?"
-38. Respond to "My Name is ______"
-39. Tell me my IP Address
-40. Respond to No Thanks
-41. Respond to an Invalid Task
-42. Shutdown System
-43. Restart System
-44. Sleep System
-45. Tell a Joke
-46. Switch Windows
-47. Tell me some News 
-48. Send an email with attachment
-49. Check instagram Profile or download it's profile picture.
-50. Check My Location.
-51. Check Weather.
-52. Take a Screenshot.
-53. Read PDF.
-54. Peform Calculations.
-55. Respond to thanks.
-56. Respond to hello.
-57. Respond to how are you
-58: WakeUp Command
-59. Check battery percentage and state
-60. Check Internet Speed
-61. Voume Up, Volume Down, Mute
-62. Go To Sleep
+    0. Check Internet Connectivity
+    1. Text To Speech
+    2. Greet
+    3. Send email to myself
+    4. Add an Alarm
+    5. Open Notepad
+    6. Close Notepad
+    7. Open CMD
+    8. Close CMD
+    9. Open Google Chrome
+    10. Close Google Chrome
+    11. Open Visual Studio Code
+    12. Close Visual Studio Code
+    13. Open SHAREit
+    14. Close SHAREit
+    15. Open WinRAR
+    16. Close WinRAR
+    17. Fetch info from Wikipedia
+    18. Open YouTube
+    19. Close YouTube
+    20. Open Facebook
+    21. Close Facebook
+    22. Open Instagram
+    23. Close Instagram
+    24. Open Twitter
+    25. Close Twitter
+    26. Open Stack Overflow
+    27. Close Stack Overflow
+    28. Open Whatsapp
+    29. Close Whatsapp
+    30. Google Search for Something
+    31. Play Some Music
+    32. Stop Music
+    33. Tell Time
+    34. Send Whatsapp Message to someone
+    35. Play a YouTube Video
+    36. Respond to "I Love You"
+    37. Respond to "What is your Name?"
+    38. Respond to "My Name is ______"
+    39. Tell me my IP Address
+    40. Respond to No Thanks
+    41. Respond to an Invalid Task
+    42. Shutdown System
+    43. Restart System
+    44. Sleep System
+    45. Tell a Joke
+    46. Switch Windows
+    47. Tell me some News 
+    48. Send an email with attachment
+    49. Check instagram Profile or download it's profile picture.
+    50. Check My Location.
+    51. Check Weather.
+    52. Take a Screenshot.
+    53. Read PDF.
+    54. Peform Calculations.
+    55. Respond to thanks.
+    56. Respond to hello.
+    57. Respond to how are you
+    58: WakeUp Command
+    59. Check battery percentage and state
+    60. Check Internet Speed
+    61. Voume Up, Volume Down, Mute
+    62. Go To Sleep
 
     **More will be added soon.**
 
