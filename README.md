@@ -1,13 +1,13 @@
 -----------------------------------------------------------------------------------------------------------------
-                                              CANDY VIRTUAL ASSISTANT
-                                         AUTHOR: SYED MUHAMMAD SAMEER NASIR
+                                              **CANDY VIRTUAL ASSISTANT
+                                         AUTHOR: SYED MUHAMMAD SAMEER NASIR**
 -----------------------------------------------------------------------------------------------------------------
 
 This is Candy, a basic virtual assistant for your PC made by Syed Muhammad Sameer Nasir. This program is made in Python.
 This program is best compatible with Windows as of now. Other platforms complete support will be added soon.
 
 -----------------------------------------------------------------------------------------------------------------
-A complete list of Commands/Functionalities:
+A complete list of **Commands/Functionalities**:
 
 0. Check Internet Connectivity
 1. Text To Speech
@@ -73,16 +73,14 @@ A complete list of Commands/Functionalities:
 61. Voume Up, Volume Down, Mute
 62. Go To Sleep
 
-    More will be added soon.
+    **More will be added soon.**
 
 -----------------------------------------------------------------------------------------------------------------
-Important Notes:
+**Important Notes:**
 
 Python Modules installed in my PC are given in "requirements.txt" file. 
-1. You can install all those by using pip in your terminal by using following command: (without arrow)
+1. You can install all those by using pip in your terminal by using following command: (without arrow) {Note: Open terminal in the root folder}
       -> pip install -r requirements.txt
-  
-Note: Open terminal in the root folder
 
 2. Go to "Voice Module" folder and add the "CortanaVoice.reg" to your registry by double clicking it and hot ok.
 
@@ -91,19 +89,19 @@ Note: Open terminal in the root folder
 4. User must be connected to internet to run this program.
 
 -----------------------------------------------------------------------------------------------------------------
-For sending emails using Candy:
+**For sending emails using Candy:**
 
     Add your GMAIL_ID and GMAIL_PASSWORD in line 658 and line 659 of "Candy.py" respectively in order to send email from your account automatically.
     
-For attaching files with email:
+**For attaching files with email:**
     
     Make a zip file containing all the attachments you want to send and rename it as "attachment.zip". Then place this zip file in "attachments" folder before sending email.
 
-For making Tweets using Twitter Bot from Candy:
+**For making Tweets using Twitter Bot from Candy:**
     
     Add your Twitter account (username and password) in "account.txt" file under account directory in order to auto tweet using your Twitter Account
 
-For sending WhatsApp messages:
+**For sending WhatsApp messages:**
     
     Add details of the persons who you want to send a whatsapp message through voice in following way in line 606 in "Candy.py":
           -> Change "FIRST_PERSON" : "PHONE_NO" to something like:   "sameer" : "+001234567890" (use country code without dashes)
@@ -111,7 +109,7 @@ For sending WhatsApp messages:
           
 -----------------------------------------------------------------------------------------------------------------
 
-Following Modules were imported and used in this project:
+**Following Modules were imported and used in this project:**
 
     import os
     import wmi
