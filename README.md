@@ -107,6 +107,10 @@ Python Modules installed in my PC are given in "requirements.txt" file.
           -> Change "FIRST_PERSON" : "PHONE_NO" to something like:   "sameer" : "+001234567890" (use country code without dashes)
           -> Add as much contacts as you like.
           
+**To Change Voice Male/Female:**
+
+    In line 76 (Candy.py), change 0 to 1 or (in some cases) to 2 to change the voice of assistant.
+          
 -----------------------------------------------------------------------------------------------------------------
 
 **Following Modules were imported and used in this project:**
