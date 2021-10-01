@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------------------------------
-                                                CANDY VIRTUAL ASSISTANT
-                                           AUTHOR: SYED MUHAMMAD SAMEER NASIR
+                                            CANDY VIRTUAL ASSISTANT
+                                       AUTHOR: SYED MUHAMMAD SAMEER NASIR
 -----------------------------------------------------------------------------------------------------------------
 
 This is Candy, a basic virtual assistant for your PC made by Syed Muhammad Sameer Nasir. This program is made in Python.
