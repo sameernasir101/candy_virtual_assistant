@@ -155,4 +155,4 @@ Python Modules installed in my PC are given in "requirements.txt" file.
     from email.mime.base import MIMEBase
     from instadownloader import instaloader
     from email.mime.multipart import MIMEMultipart 
-    from selenium.webdriver.chrome.options import Options 
+    from selenium.webdriver.chrome.options import Options
