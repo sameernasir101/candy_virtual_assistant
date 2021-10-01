@@ -110,6 +110,10 @@ Python Modules installed in my PC are given in "requirements.txt" file.
 **To Change Voice Male/Female:**
 
     In line 76 (Candy.py), change 0 to 1 or (in some cases) to 2 to change the voice of assistant.
+   
+**To Change Voice Energy Threshold:**
+
+    In line 108 (Candy.py), change the value (1500) to get the desired level or you can also turn on the "dynamic_energy_threshold" by uncommenting the line 109.
           
 -----------------------------------------------------------------------------------------------------------------
 
