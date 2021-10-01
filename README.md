@@ -7,6 +7,14 @@ This is Candy, a basic virtual assistant for your PC made by Syed Muhammad Samee
 This program is best compatible with Windows as of now. Other platforms complete support will be added soon.
 
 -----------------------------------------------------------------------------------------------------------------
+
+To Run The Program:
+    
+    Install Visual Studio Code and open the folder with it and then run it. (This is because it is a Console based Program)
+    
+    I am designing it's GUI. Till then, it's the only way to run it properly
+
+-----------------------------------------------------------------------------------------------------------------
 A complete list of **Commands/Functionalities**:
 
     0. Check Internet Connectivity
