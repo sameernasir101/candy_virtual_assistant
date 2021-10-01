@@ -4,6 +4,7 @@
 -----------------------------------------------------------------------------------------------------------------
 
 This is Candy, a basic virtual assistant for your PC made by Syed Muhammad Sameer Nasir. This program is made in Python.
+This program is best compatible with Windows as of now. Other platforms complete support will be added soon.
 
 -----------------------------------------------------------------------------------------------------------------
 A complete list of Commands/Functionalities:
@@ -72,7 +73,7 @@ A complete list of Commands/Functionalities:
 61. Voume Up, Volume Down, Mute
 62. Go To Sleep
 
-More will be added soon.
+    More will be added soon.
 
 -----------------------------------------------------------------------------------------------------------------
 Important Notes:
