@@ -6,8 +6,7 @@
 This is Candy, a basic virtual assistant for your PC made by Syed Muhammad Sameer Nasir. This program is made in Python.
 
 -----------------------------------------------------------------------------------------------------------------
-A complete list of 
-commands:
+A complete list of Commands/Functionalities:
 
 0. Check Internet Connectivity
 1. Text To Speech
